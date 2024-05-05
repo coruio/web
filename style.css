@@ -1,0 +1,20 @@
+body {
+    background-color: #111;
+    font-family: monospace;
+    font: #eee;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: magenta;
+}
+
+p {
+    color: aqua;
+}
+
+.page {
+    margin: 0 auto;
+    min-width: 300px;
+    width: 80%;
+    padding: 1rem;
+}

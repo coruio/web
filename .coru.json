@@ -1,0 +1,12 @@
+{
+    "items": [{
+        "key": "http",
+        "name": "http-server",
+        "command": "http-server ."
+    }, {
+        "key": "pushit",
+        "name": "blind commit all...",
+        "command": "git add -f * && git commit \"Updating coru.\" && git push",
+        "isolated": true
+    }]
+}
